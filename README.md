@@ -1,6 +1,9 @@
 # Deep_learning_Projects_using_Tensorflow-
 This repository contains all the deep learning models that I have implemented while learning Tensorflow.
 
+## Transfer Learning for Computer Vision
+*Using Pre-trained CNN bodies on large datasets like ImageNet and using the trained weights/bodies for classification. Some examples of popular state-of-the-art models include VGG, ResNet,Inception etc*<br/>
+
 ## Generative Adversarial Networks
 *Some key points I learnt while researching/reading/exploring Generative Adversarial networks popularly known as GANs.*<br/>
 * A GAN is not just a single neural network, but a system of 2 neural networks: **Generator** and **Discriminator**.<br/>
