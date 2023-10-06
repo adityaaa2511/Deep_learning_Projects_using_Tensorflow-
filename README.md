@@ -2,7 +2,7 @@
 This repository contains all the deep learning models that I have implemented while learning Tensorflow.
 
 ## Transfer Learning for Computer Vision
-*Using Pre-trained CNN bodies on large datasets like ImageNet and using the trained weights/bodies for classification. Some examples of popular state-of-the-art models include VGG, ResNet,Inception etc*<br/>
+*Using Pre-trained CNN bodies on large datasets like ImageNet and using the trained weights/bodies for classification. Some examples of popular state-of-the-art models include VGG,ResNet,Inception etc*<br/>
 
 ## Recommender Systems
 *Training neural network models on User, Object, Rating dataset for recommending unseen/unused objects to users based on the type/genre that they have rated the highest* <br/>
