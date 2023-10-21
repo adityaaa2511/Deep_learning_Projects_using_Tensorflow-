@@ -4,6 +4,7 @@ This repository contains all the deep learning models that I have implemented wh
 ## Transfer Learning for Computer Vision
 *Using Pre-trained CNN bodies on large datasets like ImageNet and using the trained weights/bodies for classification. Some examples of popular state-of-the-art models include VGG,ResNet,Inception etc*
 * Since, huge datasets like ImageNet contains millions of images we make use of **ImageDataGenerator** to perform Batch Gradient Descent to train the weights of the head of the VGG(body weights are pre-trained and hence, frozen to avoid re-training).<br/>
+* IDG also gives an option to perform **Data Augmentation**(flipping,shifting,rotating the image), using which we can generalise the training of the weights of the body of the VGG. But, there is a flipside to this that we might have to re-train the weights of the body which may take a considerable amount of time.<br/>
 
 ## Recommender Systems
 *Training neural network models on User, Object, Rating dataset for recommending unseen/unused objects to users based on the type/genre that they have rated the highest* <br/>
