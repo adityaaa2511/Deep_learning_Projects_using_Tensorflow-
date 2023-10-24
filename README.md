@@ -9,6 +9,7 @@ This repository contains all the deep learning models that I have implemented wh
 
 ## Recommender Systems
 *Training neural network models on User, Object, Rating dataset for recommending unseen/unused objects to users based on the type/genre that they have rated the highest* <br/>
+* **Future Prospects**:- Building advanced recommender systems using Autoencoders and Restricted Boltzmann Machines 
 
 ## Generative Adversarial Networks
 *Some key points I learnt while researching/reading/exploring Generative Adversarial networks popularly known as GANs.*<br/>
